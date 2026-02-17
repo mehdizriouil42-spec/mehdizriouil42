@@ -1,5 +1,5 @@
 🚀 EL MEHDI ZRIOUIL | Digital Builder & Creative Mind
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YOUR%20NAME&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Code%20•%20Creativity%20•%20Innovation&descAlignY=70&descSize=20"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=EL MEHDI ZRIOUIL&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Code%20•%20Creativity%20•%20Innovation&descAlignY=70&descSize=20"/>
 ⚡ Turning Ideas Into Digital Reality ⚡
 </div>
 👤 About Me
