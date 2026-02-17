@@ -1,87 +1,109 @@
-🚀 EL MEHDI ZRIOUIL | Digital Builder & Creative Mind
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=EL MEHDI ZRIOUIL&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Code%20•%20Creativity%20•%20Innovation&descAlignY=70&descSize=20"/>
-⚡ Turning Ideas Into Digital Reality ⚡
+🚀 EL MEHDI ZRIOUIL | Software Engineer in Progress
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=EL%20MEHDI%20ZRIOUIL&fontSize=45&fontAlignY=40&animation=fadeIn&desc=Code%20•%20Logic%20•%20Discipline&descAlignY=70&descSize=20"/>
+💻 Building Skills Today. Engineering Systems Tomorrow.
 </div>
 👤 About Me
 
-I’m a Passionate Developer & Creative Thinker focused on building modern digital experiences.
+I’m El Mehdi Zriouil, a passionate developer focused on mastering software engineering fundamentals and building real-world systems.
 
-🎓 Currently learning: ADD YOUR CURRENT LANGUAGE OR TECH
+🎓 Computer Science Student
 
-💻 Main Focus: Web / Mobile / AI / Cybersecurity / etc
+💻 Strong foundation in problem solving & algorithms
 
-🧠 Always exploring new technologies
+🧠 Interested in Full-Stack Development & System Architecture
 
-🚀 Goal: Become a high-level Software Engineer & build impactful systems
+🚀 Long-term goal: Become a high-level Software Engineer
 
-“Consistency beats talent when talent doesn’t work hard.”
+“Discipline + Consistency = Unstoppable Growth.”
 
 🛠 Tech Stack
 💻 Programming Languages
-ADD HERE:
-JavaScript | Python | Java | C | C++ | PHP | etc...
+
+Java • JavaScript • Python • C
 
 🌐 Frontend
-HTML | CSS | React | Tailwind | etc...
+
+HTML • CSS • React
 
 ⚙ Backend
-Node.js | Laravel | Spring | Django | etc...
+
+Node.js • Laravel • Express
 
 🗄 Databases
-MySQL | MongoDB | Firebase | PostgreSQL
 
-🧰 Tools
-Git | Docker | VS Code | Figma | Linux
+MySQL • MongoDB • Firebase
+
+🧰 Tools & Environment
+
+Git • Docker • VS Code • Linux
 
 🚀 Current Focus
 
-📚 Learning: Language / Framework
+🔥 Improving Data Structures & Algorithms
 
-🔥 Building: Project type
+🌐 Building Full-Stack Projects
 
-🧠 Improving: Problem solving & system design
+🧠 Understanding Backend Architecture
 
-🎯 Working toward: Internship / Freelancing / Startup / Job
+⚡ Writing clean, scalable code
 
-📂 Featured Projects
-🧠 Project 1 – Project Name
+📂 Featured Work
+🛒 Stock Management System
 
-Short description of what it does.
+Java-based system with interfaces and OOP architecture.
+
+Concepts Used:
+OOP • Interfaces • Collections • Architecture Design
+
+🌐 Web Applications
+
+Modern responsive web apps with frontend-backend integration.
 
 Tech Used:
-React • Node.js • MongoDB
+React • Node.js • MySQL
 
-🚀 Project 2 – Project Name
+📊 Data & Analysis Projects
 
-Short description.
+Python projects focused on statistics and time-series analysis.
 
-Tech Used:
-Laravel • MySQL
+Tools:
+Pandas • NumPy • Matplotlib
 
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/> </div>
-🎯 Personal Strengths
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical"/> </div>
+🎯 Strengths
 
-💡 Creative problem solving
+🔍 Analytical thinking
 
-🔄 Fast learner
+⚡ Fast learner
 
-🤝 Team collaboration
+🧱 Strong OOP understanding
 
-🔥 Discipline & consistency
+🔄 Continuous self-improvement mindset
+
+📈 Growth Roadmap
+
+📌 Master advanced backend systems
+
+📌 Learn system design deeply
+
+📌 Build scalable production-ready apps
+
+📌 Contribute to open source
 
 📬 Connect With Me
 
-💼 LinkedIn: your link
+💼 LinkedIn: (Add your link)
 
-📸 Instagram: your link
+🌐 Portfolio: (Add your link)
 
-🌐 Portfolio: your link
-
-📧 Email: your email
+📧 Email: (Add your email)
 
 🔥 Vision
 
-I aim to build scalable, innovative, and meaningful digital products that make a difference.
+I aim to engineer systems that are efficient, scalable, and impactful.
+Not just writing code — but building structured, intelligent solutions.
 
-✨ Crafted with ambition & discipline.
+<div align="center">
+⚡ Always Learning. Always Building. ⚡
+</div>
